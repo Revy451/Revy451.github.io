@@ -9,6 +9,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
+theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 plainwhite:
   name: LeeJoon
   tagline: Developer. Game Designer
@@ -52,8 +54,6 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
-remote_theme: samarsault/plainwhite-jekyll
-
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
