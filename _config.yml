@@ -1,4 +1,4 @@
-theme: plainwhite
+
 title: Development Document
 author: Revy451
 email: leejoon2405@gmail.com
@@ -54,6 +54,7 @@ plainwhite:
 # - about.md
 
 # Build settings
+theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
