@@ -1,10 +1,8 @@
-title: Development Document
+title: Title
 author: Revy451
 email: leejoon2405@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,7 +10,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Lee Joon
+  name: LeeJoon
   tagline: Developer. Game Designer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -52,11 +50,10 @@ plainwhite:
 #header_pages:
 # - about.md
 
-#theme: plainwhite
+# Build settings
 theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 
-# Build settings
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
