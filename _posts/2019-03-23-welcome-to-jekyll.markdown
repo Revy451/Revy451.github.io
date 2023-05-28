@@ -1,10 +1,20 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "Portfolio"
+date:   2023-05-25 21:03:36 +0530
+categories: Portfolio
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+# Introduction
+Name: Lee Joon 이준  
+# Skills 
+Skill Teck : C, C#, Java, Unity, Arduino
+# Education
+Education : Sungkyunkwan University(SKKU), Major in Computer Science 
+# Achievements
+???
+# Contact
+Email : leejoon2405@gmail.com
+  
 
 ```javascript
 const Razorpay = require('razorpay');
