@@ -19,6 +19,7 @@ plainwhite:
   portfolio_image: "assets/portfolio.jpeg" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   theme: plainwhite
+  remote_theme: samarsault/plainwhite-jekyll
   condensed_mobile:
     #- home
     - page
@@ -53,7 +54,6 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
-remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
